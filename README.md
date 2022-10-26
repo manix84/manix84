@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rob (@manix84)
+- 👀 I’m interested in Movies, Anime, Coffee, JavaScript, CSS, and HTML
+- 🌱 I’m currently learning something new every day. We're developers, because this job changes from day to day.
+- 📫 How to reach me Twitter (@robtaylor84)
