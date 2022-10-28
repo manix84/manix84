@@ -2,10 +2,10 @@
 - 👀 I’m interested in Movies, Anime, Coffee, JavaScript, CSS, and HTML.
 - 🌱 I’m currently learning something new every day. I'm a Web Developer - This job, and our knowledge develops day-by-day.
 
-📫 How to reach me Twitter (@robtaylor84)
+- 📫 How to reach me Twitter (@robtaylor84)
 
 
-👨‍💻 Past professional projects:
+- 👨‍💻 Past professional projects:
 - Little Fish [https://www.littlefish.co.uk/] 
 - BBC / iPlayer *(3 years, 9 months)*
   - <details><summary>See details...</summary>
