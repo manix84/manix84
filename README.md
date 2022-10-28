@@ -51,7 +51,9 @@
           <li>Lovefilm (transitioning to Amazon Video) [https://www.lovefilm.com/]</li>
           <li>Amazon Video [https://www.amazon.com/aiv]</li>
           <li>Prime Video [https://www.primevideo.com/]</li>
-          <li>DVUI (Digital Video User Interface)<ul>
+          <li>DVUI [Digital Video User Interface]<ul>
+            <li>Part of the internal tools team.</li>
+            <li>Internal only website.</li>
             <li>The component library for Amazon Video/Prime Video. This includes all of the buttons/inputs/carousels that are common to the sites.</li>
             <li>Fully tested and documented with a demo framework for developers to test the implementation before introducing it into their code.</li>
           </ul></li>
