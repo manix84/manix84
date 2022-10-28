@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rob (@manix84). I've been doing web development for over 20 yerars.
+- 👋 Hi, I’m Rob (@manix84). I've been doing web development for over 18 years.
 - 👀 I’m interested in Movies, Anime, Coffee, JavaScript, CSS, and HTML.
 - 🌱 I’m currently learning something new every day. I'm a Web Developer - This job, and our knowledge develops day-by-day.
 
