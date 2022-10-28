@@ -1,6 +1,9 @@
-👋 Hi, I’m Rob (@manix84) - 👀 I’m interested in Movies, Anime, Coffee, JavaScript, CSS, and HTML. - 🌱 I’m currently learning something new every day. We're developers, because this job changes from day to day.
+- 👋 Hi, I’m Rob (@manix84). I've been doing web development for over 20 yerars.
+- 👀 I’m interested in Movies, Anime, Coffee, JavaScript, CSS, and HTML.
+- 🌱 I’m currently learning something new every day. I'm a Web Developer - This job, and our knowledge develops day-by-day.
 
 📫 How to reach me Twitter (@robtaylor84)
+
 
 👨‍💻 Past professional projects:
 - Little Fish [https://www.littlefish.co.uk/] 
