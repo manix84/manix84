@@ -8,7 +8,7 @@
 - 👨‍💻 Past professional projects:
   - Free Radical Design *(3 years)*
   - ZinkyZone Ltd *(4 months)*
-  - Little Fish *(1 year)*
+  - Little Fish
     - <details><summary><em>See details...</em></summary>
         <ul>
           <li><strong>Duration:</strong> <em>1 year</em></li>
