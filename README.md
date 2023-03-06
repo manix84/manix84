@@ -43,10 +43,10 @@
           </ul></li>
         </ul>
       </details>
-  - Amazon / Prime Video *(8 years, 10 months)*
+  - Amazon / Prime Video
     - <details><summary><em>See details...</em></summary>
         <ul>
-          <li><strong>Duration:</strong> <em>3 years, 9 months</em></li>
+          <li><strong>Duration:</strong> <em>9 years</em></li>
           <li><strong>Projects:</strong><ul>
           <li>Lovefilm (transitioning to Amazon Video) [https://www.lovefilm.com/]</li>
           <li>Amazon Video [https://www.amazon.com/aiv]</li>
