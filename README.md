@@ -73,3 +73,11 @@
           <li>Installation Engineer Portal (Internal Project)</li>
         </ul></li>
       </ul></details>
+  - CleeAI *(Current Workplace)*
+    - <details><summary><em>See details...</em></summary>
+        <ul>
+          <li><strong>Projects:</strong><ul>
+          <li>Real Estate AI Chatbot Demo (Not Publicly Available)</li>
+          <li>CleeAI.com [https://cleeai.com]</li>
+        </ul></li>
+      </ul></details>
