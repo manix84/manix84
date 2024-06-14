@@ -48,7 +48,7 @@
           <li><strong>Projects:</strong><ul>
           <li>Lovefilm (transitioning to Amazon Video) [https://www.lovefilm.com/]</li>
           <li>Amazon Video [https://www.amazon.com/aiv]</li>
-          <li>Prime Video [https://www.primevideo.com/]</li>
+          <li>Prime Video [https://www.primevideo.com]</li>
           <li>DVUI (Digital Video User Interface)<ul>
             <li>Part of the internal tools team.</li>
             <li>Internal only website.</li>
@@ -61,23 +61,23 @@
     - <details><summary><em>See details...</em></summary>
         <ul>
           <li><strong>Projects:</strong><ul>
-          <li>Flick [<s>https://www.flick.com/</s>]</li>
-          <li>Vault [https://vault.fan/]</li>
+          <li>Flick [<s>https://www.flick.com</s>]</li>
+          <li>Vault [https://vault.fan]</li>
         </ul></li>
       </ul></details>
   - Vorboss *(6 months)*
     - <details><summary><em>See details...</em></summary>
         <ul>
           <li><strong>Projects:</strong><ul>
-          <li>Customer Service Portal (Not released to public yet)</li>
-          <li>Installation Engineer Portal (Internal Project)</li>
+          <li>Customer Service Portal [Not released to public yet]</li>
+          <li>Installation Engineer Portal [Internal Project]</li>
         </ul></li>
       </ul></details>
   - CleeAI *(Current Workplace)*
     - <details><summary><em>See details...</em></summary>
         <ul>
           <li><strong>Projects:</strong><ul>
-          <li>Real Estate AI Chatbot Demo (Not Publicly Available)</li>
+          <li>Real Estate AI Chatbot Demo [Not Publicly Available]</li>
           <li>CleeAI.com [https://cleeai.com]</li>
         </ul></li>
       </ul></details>
