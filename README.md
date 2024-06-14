@@ -1,27 +1,25 @@
-- 👋 Hi, I’m Rob (@manix84). I've been doing web development for over 18 years.
+- 👋 Hi, I’m Rob (@manix84). I've been doing web development for over 20 years.
 - 👀 I’m interested in Movies, Anime, Coffee, JavaScript, CSS, and HTML.
-- 🌱 I’m currently learning something new every day. I'm a Web Developer - This job, and our knowledge develops day-by-day.
+- 🌱 I’m currently learning something new every day. I'm a Front End Web Developer - This job, and our knowledge develops day-by-day.
 
 
-- 📫 How to reach me: **Twitter (@robtaylor84)**
+- 📫 How to reach me: **Twitter (@robtaylor84)**  
 
 
 - 👨‍💻 Past professional projects:
   - Free Radical Design *(3 years)*
   - ZinkyZone Ltd *(4 months)*
-  - Little Fish
+  - Little Fish *(1 year)*
     - <details><summary><em>See details...</em></summary>
         <ul>
-          <li><strong>Duration:</strong> <em>1 year</em></li>
           <li><strong>Projects:</strong><ul>
             <li>Main Website [https://littlefish.co.uk/]</li>
           </ul></li>
         </ul>
       </detail>
-  - BBC / iPlayer
+  - BBC / iPlayer *(3 years, 9 months)*
     - <details><summary><em>See details...</em></summary>
         <ul>
-          <li><strong>Duration:</strong> <em>3 years, 9 months</em></li>
           <li><strong>Projects:</strong><ul>
             <li>BBC Radio Player [https://www.bbc.co.uk/sounds/player/bbc_radio_one]</li>
             <li>iPlayer (TV & Radio) [https://www.bbc.co.uk/iplayer]</li>
@@ -44,10 +42,9 @@
           </ul></li>
         </ul>
       </details>
-  - Amazon / Prime Video
+  - Amazon / Prime Video *(9 years)*
     - <details><summary><em>See details...</em></summary>
         <ul>
-          <li><strong>Duration:</strong> <em>9 years</em></li>
           <li><strong>Projects:</strong><ul>
           <li>Lovefilm (transitioning to Amazon Video) [https://www.lovefilm.com/]</li>
           <li>Amazon Video [https://www.amazon.com/aiv]</li>
@@ -60,12 +57,19 @@
           </ul></li>
         </ul></li>
       </ul></details>
-  - Flick / Vault
+  - Flick / Vault *(2 years)*
     - <details><summary><em>See details...</em></summary>
         <ul>
-          <li><strong>Duration:</strong> <em>2 years</em></li>
           <li><strong>Projects:</strong><ul>
           <li>Flick [<s>https://www.flick.com/</s>]</li>
           <li>Vault [https://vault.fan/]</li>
+        </ul></li>
+      </ul></details>
+  - Vorboss *(6 months)*
+    - <details><summary><em>See details...</em></summary>
+        <ul>
+          <li><strong>Projects:</strong><ul>
+          <li>Customer Service Portal (Not released to public yet)</li>
+          <li>Installation Engineer Portal (Internal Project)</li>
         </ul></li>
       </ul></details>
