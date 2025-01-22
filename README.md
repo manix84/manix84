@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning something new every day. I'm a Front End Web Developer - This job, and our knowledge develops day-by-day.
 
 
-- 📫 How to reach me: **Twitter (@robtaylor84)**  
-
-
 - 👨‍💻 Past professional projects:
   - Free Radical Design *(3 years)*
   - ZinkyZone Ltd *(4 months)*
