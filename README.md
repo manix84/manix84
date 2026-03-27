@@ -22,17 +22,17 @@ Hi, I’m Rob (@manix84) — a Front End Web Developer with 25+ years of experie
 
 #### 🚀 Key Projects
 
-- **NoraChatbot** *(decommissioned)*
-  - Built a plug-and-play AI chatbot that integrates into any website via a simple script tag.
-  - Supports multiple concurrent chat sessions per user.
-  - Designed for eCommerce platforms (e.g. Shopify) to provide intelligent product recommendations.
-  - 📈 Achieved ~30% increase in sales on integrated sites.
-
 - **AI Builder** *(private)*
   - Developed a system that generates specialised AI models based on user-defined goals.
   - Provides transparent “insights” into how the AI learns, including source tracking.
   - Generates downloadable reports outlining its 7 core specialisation principles.
   - Includes comparison tooling against ChatGPT, Claude, and Gemini — showing ~60% improvement in task focus.
+
+- **NoraChatbot** *(decommissioned)*
+  - Built a plug-and-play AI chatbot that integrates into any website via a simple script tag.
+  - Supports multiple concurrent chat sessions per user.
+  - Designed for eCommerce platforms (e.g. Shopify) to provide intelligent product recommendations.
+  - 📈 Achieved ~30% increase in sales on integrated sites.
 
 - **CleeAI Search** *(decommissioned)*
   - Built a research-focused AI search engine.
