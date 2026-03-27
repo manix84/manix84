@@ -1,101 +1,129 @@
-- 👋 Hi, I’m Rob (@manix84). I've been doing web development for over 20 years.
-- 👀 I’m interested in Movies, Anime, Coffee, JavaScript, CSS, and HTML.
-- 🌱 I’m currently learning something new every day. I'm a Front End Web Developer - This job, and our knowledge develops day-by-day.
+- 👋 Hi, I’m Rob (@manix84) — a Front End Web Developer with 25+ years of experience.
+- 👀 I’m into Movies, Anime, Coffee, JavaScript, CSS, and HTML.
+- 🌱 I’m constantly learning — this industry doesn’t stand still, and neither do I.
+
+## 🧠 What I Like Building
+
+- Clean, privacy-first tools (no ads, no tracking, no nonsense)
+- Lightweight, dependency-free front-end systems
+- AI tools that are actually useful — not just hype
+- Developer-first experiences that are easy to integrate and extend
+
+## 👨‍💻 Professional Experience
+
+### CleeAI *(Current)*
+<details>
+<summary><em>See details...</em></summary>
+
+#### 🚀 Key Projects
+
+- **AI Builder** *(private)*
+  - Developed a system that generates specialised AI models based on user-defined goals.
+  - Provides transparent “insights” into how the AI learns, including source tracking.
+  - Generates downloadable reports outlining its 7 core specialisation principles.
+  - Includes comparison tooling against ChatGPT, Claude, and Gemini — showing ~60% improvement in task focus.
+
+- **NoraChatbot** *(private)*
+  - Built a plug-and-play AI chatbot that integrates into any website via a simple script tag.
+  - Supports multiple concurrent chat sessions per user.
+  - Designed for eCommerce platforms (e.g. Shopify) to provide intelligent product recommendations.
+  - 📈 Achieved ~30% increase in sales on integrated sites.
+
+- **CleeAI Search** *(decommissioned)*
+  - Built a research-focused AI search engine.
+  - Delivered answers alongside deep source explanations, graphs, and supporting statistics.
+
+- **Real Estate AI Chatbot Demo** *(private)*
+  - Developed a demo showcasing AI integration into real estate platforms.
+  - Pulled and presented live data directly from client websites.
+
+- **Other**
+  - https://cleeai.com
+
+</details>
 
 
-- 👨‍💻 Past professional projects:
-  - Free Radical Design *(3 years)*
-  - ZinkyZone Ltd *(4 months)*
-  - Little Fish *(1 year)*
-    <details><summary><em>See details...</em></summary>
-      <ul>
-        <li><strong>Projects:</strong>
-          <ul>
-            <li>Main Website [https://littlefish.co.uk/]</li>
-          </ul>
-        </li>
-      </ul>
-    </detail>
-  - BBC / iPlayer *(3 years, 9 months)*
-    <details><summary><em>See details...</em></summary>
-      <ul>
-        <li><strong>Projects:</strong>
-          <ul>
-            <li>BBC Radio Player [https://www.bbc.co.uk/sounds/player/bbc_radio_one]</li>
-            <li>iPlayer (TV & Radio) [https://www.bbc.co.uk/iplayer]</li>
-            <li>Children In Need Homepage [https://www.bbc.co.uk/cin]</li>
-            <li>CBBC Homepage [https://www.bbc.co.uk/cbbc]</li>
-            <li>TV Guide [https://www.bbc.co.uk/iplayer/guide]</li>
-            <li>Doctor Who [https://www.bbc.co.uk/doctorwho]</li>
-            <li>Channels:
-              <ul>
-                <li>BBC One [https://www.bbc.co.uk/tv/bbcone]</li>
-                <li>BBC Two [https://www.bbc.co.uk/tv/bbctwo]</li>
-                <li>BBC Three [https://www.bbc.co.uk/tv/bbcthree]</li>
-                <li>BBC Four [https://www.bbc.co.uk/tv/bbcfour]</li>
-                <li>CBBC [https://www.bbc.co.uk/tv/cbbc]</li>
-                <li>CBeebies [https://www.bbc.co.uk/tv/cbeebies]</li>
-                <li>Scotland [https://www.bbc.co.uk/tv/bbcscotland]</li>
-                <li>News [https://www.bbc.co.uk/tv/bbcnews]</li>
-                <li>Parliament [https://www.bbc.co.uk/tv/bbcparliament]</li>
-                <li>Alba [https://www.bbc.co.uk/tv/bbcalba]</li>
-                <li>S4C [https://www.bbc.co.uk/tv/s4c]</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </details>
-  - Amazon / Prime Video *(9 years)*
-    <details><summary><em>See details...</em></summary>
-      <ul>
-        <li><strong>Projects:</strong>
-          <ul>
-            <li>Lovefilm (transitioning to Amazon Video) [https://www.lovefilm.com]</li>
-            <li>Amazon Video [https://www.amazon.com/aiv]</li>
-            <li>Prime Video [https://www.primevideo.com]</li>
-            <li>DVUI (Digital Video User Interface)
-              <ul>
-                <li>Part of the internal tools team.</li>
-                <li>Internal only website.</li>
-                <li>The component library for Amazon Video/Prime Video. This includes all of the buttons/inputs/carousels that are common to the sites.</li>
-                <li>Fully tested and documented with a demo framework for developers to test the implementation before introducing it into their code.</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </details>
-  - Flick / Vault *(2 years)*
-    <details><summary><em>See details...</em></summary>
-      <ul>
-        <li><strong>Projects:</strong>
-          <ul>
-            <li>Flick [<s>https://www.flick.com</s>]</li>
-            <li>Vault [https://vault.fan]</li>
-          </ul>
-        </li>
-      </ul>
-    </details>
-  - Vorboss *(6 months)*
-    <details><summary><em>See details...</em></summary>
-      <ul>
-        <li><strong>Projects:</strong>
-          <ul>
-            <li>Customer Service Portal [Not released to public yet]</li>
-            <li>Installation Engineer Portal [Internal Project]</li>
-          </ul>
-        </li>
-      </ul>
-    </details>
-  - CleeAI *(Current Workplace)*
-    <details><summary><em>See details...</em></summary>
-      <ul>
-        <li><strong>Projects:</strong>
-          <ul>
-            <li>Real Estate AI Chatbot Demo [Not Publicly Available]</li>
-            <li>CleeAI.com [https://cleeai.com]</li>
-          </ul>
-        </li>
-      </ul>
-    </details>
+### Vorboss *(6 months)*
+<details>
+<summary><em>See details...</em></summary>
+
+- Customer Service Portal *(private)*
+- Installation Engineer Portal *(internal)*
+
+</details>
+
+
+### Flick / Vault *(2 years)*
+<details>
+<summary><em>See details...</em></summary>
+
+- Flick *(discontinued)*  
+- https://vault.fan
+
+</details>
+
+
+### Amazon / Prime Video *(9 years)*
+<details>
+<summary><em>See details...</em></summary>
+
+- Lovefilm → Amazon Video transition  
+- https://www.amazon.com/aiv  
+- https://www.primevideo.com  
+
+**DVUI (Digital Video UI)**
+- Internal component library powering Prime Video.
+- Built reusable UI components (buttons, inputs, carousels, etc).
+- Fully tested, documented, and supported with a developer demo environment.
+
+</details>
+
+
+### BBC / iPlayer *(3 years, 9 months)*
+<details>
+<summary><em>See details...</em></summary>
+
+- https://www.bbc.co.uk/iplayer  
+- https://www.bbc.co.uk/sounds  
+
+**Key Areas**
+- BBC Radio Player  
+- iPlayer (TV & Radio)  
+- Children In Need  
+- CBBC  
+- TV Guide  
+
+**Channel Pages**
+- BBC One, Two, Three, Four  
+- CBBC, CBeebies  
+- BBC Scotland, News, Parliament  
+- Alba, S4C  
+
+</details>
+
+
+### Little Fish *(1 year)*
+<details>
+<summary><em>See details...</em></summary>
+
+- https://littlefish.co.uk/
+
+</details>
+
+
+### ZinkyZonk Ltd *(4 months)*
+
+
+### Free Radical Design *(3 years)*
+<details>
+<summary><em>See details...</em></summary>
+
+- https://www.frd.co.uk
+
+#### Key Projects
+
+- **Facebook Games**
+  - Built games embedded directly into Facebook.
+  - Worked with FBML (Facebook Markup Language) and FBJS (Facebook JavaScript).
+
+</details>
