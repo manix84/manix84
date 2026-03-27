@@ -1,3 +1,5 @@
+## 🧑‍💻 About Me
+
 - 👋 Hi, I’m Rob (@manix84) — a Front End Web Developer with 25+ years of experience.
 - 👀 I’m into Movies, Anime, Coffee, JavaScript, CSS, and HTML.
 - 🌱 I’m constantly learning — this industry doesn’t stand still, and neither do I.
@@ -84,13 +86,31 @@
 <summary><em>See details...</em></summary>
 
 - https://www.bbc.co.uk/iplayer  
-- https://www.bbc.co.uk/sounds  
+- https://www.bbc.co.uk/iplayer/guide
+  - https://www.bbc.co.uk/bbcone
+  - https://www.bbc.co.uk/bbctwo
+  - https://www.bbc.co.uk/bbcthree
+  - https://www.bbc.co.uk/bbcfour
+  - https://www.bbc.co.uk/tv/radio1
+  - https://www.bbc.co.uk/tv/cbbc
+  - https://www.bbc.co.uk/tv/cbeebies
+  - https://www.bbc.co.uk/tv/bbcscotland
+  - https://www.bbc.co.uk/tv/bbcnews
+  - https://www.bbc.co.uk/tv/bbcparliament
+  - https://www.bbc.co.uk/tv/bbcalba
+  - https://www.bbc.co.uk/tv/s4c
+- https://www.bbc.co.uk/cbbc
+- https://www.bbc.co.uk/cbeebies
+- https://www.bbc.co.uk/drwho
+- https://www.bbc.co.uk/childreninneed
+- https://www.bbc.co.uk/sounds
 
 **Key Areas**
 - BBC Radio Player  
 - iPlayer (TV & Radio)  
 - Children In Need  
-- CBBC  
+- CBBC
+- DrWho
 - TV Guide  
 
 **Channel Pages**
