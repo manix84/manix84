@@ -1,17 +1,20 @@
 ## 🧑‍💻 About Me
 
-- 👋 Hi, I’m Rob (@manix84) — a Front End Web Developer with 25+ years of experience.
-- 👀 I’m into Movies, Anime, Coffee, JavaScript, CSS, and HTML.
-- 🌱 I’m constantly learning — this industry doesn’t stand still, and neither do I.
+Hi, I’m Rob (@manix84) — a Front End Web Developer with 25+ years of experience building things for the web.
+
+- Interests: Movies, Anime, Coffee, JavaScript, CSS, and HTML  
+- Mindset: Always learning — this industry doesn’t stand still, and neither do I  
+
 
 ## 🧠 What I Like Building
 
-- Clean, privacy-first tools (no ads, no tracking, no nonsense)
-- Lightweight, dependency-free front-end systems
-- AI tools that are actually useful — not just hype
-- Developer-first experiences that are easy to integrate and extend
+- Clean, privacy-first tools (no ads, no tracking, no unnecessary accounts)  
+- Lightweight, dependency-conscious front-end systems  
+- AI tools that are genuinely useful — not just hype  
+- Developer-first experiences that are easy to integrate and extend  
 
-## 👨‍💻 Professional Experience
+
+## 💼 Professional Experience
 
 ### CleeAI *(Current)*
 <details>
@@ -19,17 +22,17 @@
 
 #### 🚀 Key Projects
 
+- **NoraChatbot** *(decommissioned)*
+  - Built a plug-and-play AI chatbot that integrates into any website via a simple script tag.
+  - Supports multiple concurrent chat sessions per user.
+  - Designed for eCommerce platforms (e.g. Shopify) to provide intelligent product recommendations.
+  - 📈 Achieved ~30% increase in sales on integrated sites.
+
 - **AI Builder** *(private)*
   - Developed a system that generates specialised AI models based on user-defined goals.
   - Provides transparent “insights” into how the AI learns, including source tracking.
   - Generates downloadable reports outlining its 7 core specialisation principles.
   - Includes comparison tooling against ChatGPT, Claude, and Gemini — showing ~60% improvement in task focus.
-
-- **NoraChatbot** *(private)*
-  - Built a plug-and-play AI chatbot that integrates into any website via a simple script tag.
-  - Supports multiple concurrent chat sessions per user.
-  - Designed for eCommerce platforms (e.g. Shopify) to provide intelligent product recommendations.
-  - 📈 Achieved ~30% increase in sales on integrated sites.
 
 - **CleeAI Search** *(decommissioned)*
   - Built a research-focused AI search engine.
@@ -86,31 +89,13 @@
 <summary><em>See details...</em></summary>
 
 - https://www.bbc.co.uk/iplayer  
-- https://www.bbc.co.uk/iplayer/guide
-  - https://www.bbc.co.uk/bbcone
-  - https://www.bbc.co.uk/bbctwo
-  - https://www.bbc.co.uk/bbcthree
-  - https://www.bbc.co.uk/bbcfour
-  - https://www.bbc.co.uk/tv/radio1
-  - https://www.bbc.co.uk/tv/cbbc
-  - https://www.bbc.co.uk/tv/cbeebies
-  - https://www.bbc.co.uk/tv/bbcscotland
-  - https://www.bbc.co.uk/tv/bbcnews
-  - https://www.bbc.co.uk/tv/bbcparliament
-  - https://www.bbc.co.uk/tv/bbcalba
-  - https://www.bbc.co.uk/tv/s4c
-- https://www.bbc.co.uk/cbbc
-- https://www.bbc.co.uk/cbeebies
-- https://www.bbc.co.uk/drwho
-- https://www.bbc.co.uk/childreninneed
-- https://www.bbc.co.uk/sounds
+- https://www.bbc.co.uk/sounds  
 
 **Key Areas**
 - BBC Radio Player  
 - iPlayer (TV & Radio)  
 - Children In Need  
-- CBBC
-- DrWho
+- CBBC  
 - TV Guide  
 
 **Channel Pages**
